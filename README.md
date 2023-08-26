@@ -9,7 +9,7 @@ This repository serves as a collection of my certifications in various data scie
 * Awarded: Last Week
 
 ### Python for Data Science, AI & Development
-![Python Certificate](Coursera%20LXVPKG86DYU5)
+![Python Certificate](Python%20for%20Data%20Science,%20AI%20&%20Development.png)(Coursera%20LXVPKG86DYU5.pdf)
 * Awarded: 37 minutes ago
 
 ### SQL for Data Science
