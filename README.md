@@ -9,7 +9,7 @@ This repository serves as a collection of my certifications in various data scie
 * Awarded: Last Week
 
 ### Python for Data Science, AI & Development
-![Python Certificate](Coursera%20LXVPKG86DYU5.pdf)
+![Python Certificate](Coursera%20LXVPKG86DYU5)
 * Awarded: 37 minutes ago
 
 ### SQL for Data Science
@@ -54,7 +54,7 @@ This repository serves as a collection of my certifications in various data scie
 
 I am a dedicated learner passionate about data science, programming, and technical skills. These certifications reflect my journey in expanding my knowledge and expertise in various domains.
 
-Feel free to reach out to me if you have any questions or if you'd like to connect. You can find more about me on my [LinkedIn profile](www.linkedin.com/in/ahmed-taha-87b546207) and my [personal website]([https://www.yourwebsite.com](https://ahmedtaha89.github.io/My_Portfolio/)).
+Feel free to reach out to me if you have any questions or if you'd like to connect. You can find more about me on my [LinkedIn profile](www.linkedin.com/in/ahmed-taha-87b546207) and my [personal website]([https://www.yourwebsite.com](https://ahmedtaha89.github.io/My_Portfolio/).
 
 ---
 
