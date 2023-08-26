@@ -30,6 +30,7 @@ This repository serves as a collection of my certifications in various data scie
 
 ### Introduction to SQL
 [Introduction to SQL Certificate](Intro%20SQL.pdf)
+[Introduction to SQL Certificate](Intro%20SQL.png)
 * Awarded: 2022-09-24
 
 ### Tech Freelancing
