@@ -10,7 +10,7 @@ This repository serves as a collection of my certifications in various data scie
 
 ### Python for Data Science, AI & Development
 [Python Certificate](Python%20for%20Data%20Science,%20AI%20&%20Development.pdf)
-[Python Certificate](Python%20for%20Data%20Science,%20AI%20&%20Development.png)
+![Python Certificate](Python%20for%20Data%20Science,%20AI%20&%20Development.png)
 * Awarded: 2023-08-26
 
 ### SQL for Data Science
