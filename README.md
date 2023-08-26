@@ -32,10 +32,6 @@ This repository serves as a collection of my certifications in various data scie
 [Tech Freelancing Certificate](Mahara%20Tech%20Freelancing.pdf)
 * Awarded: 2023-04-05
 
-<-- ### Other Certificates
-- ![Certificate 3](certificate3.png)
-- ![Certificate 4](certificate4.png)
-- ... -->
 
 ## Repository Structure
 
