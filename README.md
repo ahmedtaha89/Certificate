@@ -13,23 +13,23 @@ This repository serves as a collection of my certifications in various data scie
 * Awarded: 37 minutes ago
 
 ### SQL for Data Science
-![SQL Certificate](Coursera%20SQL%20for%20Data%20Science.pdf)
+[SQL Certificate](Coursera%20SQL%20for%20Data%20Science.pdf)
 * Awarded: 3 weeks ago
 
 ### Data Analysis In Excel
-![Excel Data Analysis Certificate](Data%20Analysis%20In%20Excel.pdf)
+[Excel Data Analysis Certificate](Data%20Analysis%20In%20Excel.pdf)
 * Awarded: 2 weeks ago
 
 ### Excel Fundamentals for Data Analysis
-![Excel Fundamentals Certificate](Excel%20Fundamentals%20for%20Data%20Analysis.pdf)
+[Excel Fundamentals Certificate](Excel%20Fundamentals%20for%20Data%20Analysis.pdf)
 * Awarded: 2 weeks ago
 
 ### Introduction to SQL
-![Introduction to SQL Certificate](Intro%20SQL.pdf)
+[Introduction to SQL Certificate](Intro%20SQL.pdf)
 * Awarded: 2 weeks ago
 
 ### Tech Freelancing
-![Tech Freelancing Certificate](Mahara%20Tech%20Freelancing.pdf)
+[Tech Freelancing Certificate](Mahara%20Tech%20Freelancing.pdf)
 * Awarded: 2 weeks ago
 
 ### Other Certificates
