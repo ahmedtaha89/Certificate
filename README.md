@@ -15,14 +15,17 @@ This repository serves as a collection of my certifications in various data scie
 
 ### SQL for Data Science
 [SQL Certificate](Coursera%20SQL%20for%20Data%20Science.pdf)
+![SQL Certificate](Coursera%20SQL%20for%20Data%20Science.png)
 * Awarded: 2023-08-07
 
 ### Data Analysis In Excel
 [Excel Data Analysis Certificate](Data%20Analysis%20In%20Excel.pdf)
+![Excel Data Analysis Certificate](Data%20Analysis%20In%20Excel.png)
 * Awarded: 2022-12-21
 
 ### Excel Fundamentals for Data Analysis
 [Excel Fundamentals Certificate](Excel%20Fundamentals%20for%20Data%20Analysis.pdf)
+![Excel Fundamentals Certificate](Excel%20Fundamentals%20for%20Data%20Analysis.png)
 * Awarded: 2023-08-10
 
 ### Introduction to SQL
