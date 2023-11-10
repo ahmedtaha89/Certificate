@@ -4,6 +4,10 @@ This repository serves as a collection of my certifications in various data scie
 
 ## Certificates
 
+### Intro To Excel (365 Data Science)
+![Excel Certificate](Intro%20to%20excel.png)
+* Awarded: 2023-11-10
+
 ### Pandas Certificate from Kaggle
 ![Pandas Certificate](Ahmed%20Taha%20-%20Pandas.png)
 * Awarded: 2023-08-18
