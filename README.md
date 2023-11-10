@@ -8,14 +8,15 @@ This repository serves as a collection of my certifications in various data scie
 ![Excel Certificate](Intro%20to%20excel.png)
 * Awarded: 2023-11-10
 
-### Pandas Certificate from Kaggle
-![Pandas Certificate](Ahmed%20Taha%20-%20Pandas.png)
-* Awarded: 2023-08-18
-
 ### Python for Data Science, AI & Development
 [Python Certificate](Python%20for%20Data%20Science,%20AI%20&%20Development.pdf)
 ![Python Certificate](Python%20for%20Data%20Science,%20AI%20&%20Development.png)
 * Awarded: 2023-08-26
+
+### Pandas Certificate from Kaggle
+![Pandas Certificate](Ahmed%20Taha%20-%20Pandas.png)
+* Awarded: 2023-08-18
+
 
 ### SQL for Data Science
 [SQL Certificate](Coursera%20SQL%20for%20Data%20Science.pdf)
